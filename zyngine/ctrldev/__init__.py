@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 __all__ = [
     "zynthian_ctrldev_akai_apc_key25_mk2",
+    "zynthian_ctrldev_akai_apc_mini_mk2",
     "zynthian_ctrldev_akai_midimix",
     "zynthian_ctrldev_akai_mpk_mini_mk3",
     "zynthian_ctrldev_duopiano",
