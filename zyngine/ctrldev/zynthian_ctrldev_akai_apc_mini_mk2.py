@@ -64,8 +64,8 @@ EV_CONTINUE                          = 0xFB
 # APC mini buttons
 BTN_SHIFT                            = 0x7A
 BTN_STOP_ALL_CLIPS                   = 0x77
-# BTN_PLAY                             = 0x
-# BTN_RECORD                           = 0x
+BTN_PLAY                             = 0xFF
+BTN_RECORD                           = 0xFE
 
 BTN_TRACK_1 = BTN_UP                 = 0x68
 BTN_TRACK_2 = BTN_DOWN               = 0x69
